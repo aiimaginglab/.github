@@ -1,6 +1,6 @@
 # AI Imaging Lab
 
-We are a research group in the Department of Artificial Intelligence at Korea University. We study fundamental methods in computational imaging, computer vision, and machine learning. Our research aims to advance the way we capture, analyze, and reconstruct the world around us, bridging theoretical advances and practical applications across a wide range of fields, from computational photography to creative AI.
+We study fundamental methods in computational imaging, computer vision, and machine learning. Our research aims to advance the way we capture, analyze, and reconstruct the world around us, bridging theoretical advances and practical applications across a wide range of fields, from computational photography to creative AI.
 
 ## Repositories
 
